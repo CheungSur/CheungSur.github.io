@@ -4,4 +4,10 @@ img.ZS-head-img {
 .ZS-head {
     margin-top: 28px;
     margin-left: 48px;
+    float: left;
+}
+.ZS-name {
+    color: #de676ca8;
+    font-size: 51px;
+    font-family: 华光粗圆_CNKI;
 }
