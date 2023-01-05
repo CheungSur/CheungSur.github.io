@@ -3,7 +3,7 @@ img.ZS-head-img {
 }
 .ZS-head {
     margin-top: 28px;
-    margin-left: 48px;
+    margin-left: 100px;
     float: left;
 }
 .ZS-name {
@@ -14,7 +14,7 @@ img.ZS-head-img {
 .ZS-introduction {
     float: left;
     margin-left: 45px;
-    margin-top: 72px;
+    margin-top: 54px;
 }
 .ZS-school {
     font-size: 20px;
@@ -34,4 +34,12 @@ img.ZS-head-img {
     font-family: 华光粗圆_CNKI;
     margin-left: 46px;
     margin-top: 34px;
+}
+.ZS-head_border:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.ZS-head_border {
+    margin-bottom: 24px;
 }
