@@ -1,6 +1,7 @@
 .ZS-About-Me {
-    width: 700px;
-    margin-left: 57px;
+    /* width: 700px; */
+    margin-left: 7%;
+    margin-right: 7%;
 }
 .ZS-interest {
     font-size: 27px;
@@ -14,8 +15,8 @@
     margin-left: 35px;
 }
 .ZS-interest-content {
-    margin-left: 57px;
-    width: 666px;
+    margin-left: 7%;
+    margin-right: 11%;
 }
 .ZS-Button {
     width: 513px;
@@ -67,5 +68,5 @@ input.ZS-button {
     font-weight: bold;
     margin-top: 46px;
     margin-bottom: 13px;
-    
+
 }
