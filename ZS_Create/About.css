@@ -8,3 +8,29 @@
     margin-top: 30px;
     margin-bottom: 13px;
 }
+.ZS-pic {
+    width: 217px;
+    float: left;
+    margin-left: 35px;
+}
+.ZS-interest-content {
+    margin-left: 57px;
+    width: 666px;
+}
+.ZS-Button {
+    width: 513px;
+    text-align: center;
+}
+input.ZS-button {
+    background-color: #f0f0f026;
+    margin-right: 20px;
+    font-size: 13px;
+    font-family: 华光粗圆_CNKI;
+}
+.ZS-Button {
+    width: 513px;
+    text-align: center;
+    margin-left: 112px;
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
