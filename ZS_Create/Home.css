@@ -42,3 +42,6 @@ img.ZS-head-img {
 .ZS-home-music{
     width: 629px;
 }
+.text-2xl.font-bold.transition.line-clamp-2.group-hover\:text-theme.md\:line-clamp-3 {
+    margin-bottom: 26px;
+}
