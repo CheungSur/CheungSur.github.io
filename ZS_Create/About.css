@@ -26,6 +26,7 @@ input.ZS-button {
     margin-right: 20px;
     font-size: 13px;
     font-family: 华光粗圆_CNKI;
+    margin-top: 9px;
 }
 .ZS-Button {
     width: 513px;
@@ -36,6 +37,7 @@ input.ZS-button {
 }
 .ZS-intro {
     float: left;
+    margin-bottom: 25px;
 }
 .Zs-in {
     width: 324px;
@@ -44,7 +46,7 @@ input.ZS-button {
 }
 .ZS-class {
     float: right;
-     width: 374px;
+    width: 374px;
     /* height: 150px; */
     padding-top: 42px;
     padding-bottom: 50px;
@@ -52,4 +54,17 @@ input.ZS-button {
     font-size: 15px;
     line-height: 37px;
     font-family: 华光粗圆_CNKI;
+    color: #adaaaa !important;
+}
+.ZS-school-name {
+    color: #adaaaa !important;
+}
+.ZS-Professor-name {
+    color: #adaaaa !important;
+}
+.ZS-pic-title {
+    font-size: 27px;
+    font-weight: bold;
+    margin-top: 46px;
+    margin-bottom: 13px;
 }
