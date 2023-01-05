@@ -44,10 +44,7 @@ input.ZS-button {
 }
 .ZS-class {
     float: right;
-    /* margin-right: 128px; */
-    /* margin-top: 71px; */
-    /* margin-bottom: 65px; */
-    width: 374px;
+     width: 374px;
     /* height: 150px; */
     padding-top: 42px;
     padding-bottom: 50px;
