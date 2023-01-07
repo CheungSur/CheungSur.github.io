@@ -75,9 +75,11 @@ iframe {
     margin-top: 20px;
     margin-bottom: 15px;
 }
-.ZS-Random{
+.ZS-Random {
     font-size: 27px;
     font-weight: bold;
     margin-top: 46px;
     margin-bottom: 13px;
+    margin-right: 22%;
+    float: left;
 }
